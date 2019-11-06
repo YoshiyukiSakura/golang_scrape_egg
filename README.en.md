@@ -1,4 +1,4 @@
-# hz_egg_autu
+# hz_egg_auto
 
 #### Description
 杭州禽蛋批发自动化脚本
